@@ -1,3 +1,3 @@
 for n in range(5):
-    print('Git is rulesS')
+    print('Git is rules!')
 print('Game over')
